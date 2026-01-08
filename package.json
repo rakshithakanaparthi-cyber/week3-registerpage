@@ -1,0 +1,14 @@
+{
+  "name": "user-auth-system",
+  "version": "1.0.0",
+  "description": "User Registration and Login System using HTML CSS and JavaScript",
+  "main": "script.js",
+  "script": {
+    "start": "live-server"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
